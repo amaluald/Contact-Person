@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contact-Person</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="contact">Contact person\'s page</string>
+</resources>
